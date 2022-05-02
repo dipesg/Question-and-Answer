@@ -1,0 +1,24 @@
+2022-04-30/21:08:14		Error occured while running the summerizer function. Error:: 'Helper' object has no attribute 'device'
+2022-04-30/21:10:14		Error occured while running the summerizer function. Error:: [E941] Can't find model 'en'. It looks like you're trying to load a model from a shortcut, which is obsolete as of spaCy v3.0. To load the model, use its full name instead:
+
+nlp = spacy.load("en_core_web_sm")
+
+For more details on the available models, see the models directory: https://spacy.io/models. If you want to create a blank model, use spacy.blank: nlp = spacy.blank("en")
+2022-04-30/21:10:14		Error occured while running the get_keywords function. Error:: [E941] Can't find model 'en'. It looks like you're trying to load a model from a shortcut, which is obsolete as of spaCy v3.0. To load the model, use its full name instead:
+
+nlp = spacy.load("en_core_web_sm")
+
+For more details on the available models, see the models directory: https://spacy.io/models. If you want to create a blank model, use spacy.blank: nlp = spacy.blank("en")
+2022-04-30/22:04:45		Error occured while running the summerizer function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-04-30/22:04:45		Error occured while running the get_keywords function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-04-30/22:06:02		Error occured while running the summerizer function. Error:: cannot import name 'component' from 'spacy' (D:\AnacondaInstallation\envs\mcq\lib\site-packages\spacy\__init__.py)
+2022-04-30/22:06:02		Error occured while running the get_keywords function. Error:: cannot import name 'component' from 'spacy' (D:\AnacondaInstallation\envs\mcq\lib\site-packages\spacy\__init__.py)
+2022-04-30/22:11:27		Error occured while running the summerizer function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-04-30/22:11:27		Error occured while running the get_keywords function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/09:15:35		Error occured while running the summerizer function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/09:15:35		Error occured while running the get_keywords function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/09:17:42		Error occured while running the summerizer function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/09:17:42		Error occured while running the get_keywords function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/09:44:38		Error occured while running the summerizer function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/09:44:38		Error occured while running the get_keywords function. Error:: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+2022-05-01/12:18:45		Error occured while running the summerizer function. Error:: 'Textbox' object has no attribute 'strip'
