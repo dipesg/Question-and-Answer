@@ -21,6 +21,10 @@ git clone https://github.com/dipesg/Question-and-Answer.git
 conda create -n venv python = 3.9 -y
 conda activate venv
 ```
+* Install Requirements:
+```
+pip install requirements.txt
+```
 
 * Run the app:
 ```
